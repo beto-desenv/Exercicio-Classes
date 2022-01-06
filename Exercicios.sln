@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-Membros-Estaticos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-Encapsulamento", "..\Exercicio-Construtores\Exercicio-Encapsulamento.csproj", "{4556446E-252F-46D2-8549-A267E3CF14D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-Vetores", "..\Exercicio-Vetores\Exercicio-Vetores.csproj", "{E6B91B16-008A-4EBF-957D-FB356881D333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4556446E-252F-46D2-8549-A267E3CF14D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4556446E-252F-46D2-8549-A267E3CF14D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4556446E-252F-46D2-8549-A267E3CF14D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B91B16-008A-4EBF-957D-FB356881D333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B91B16-008A-4EBF-957D-FB356881D333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B91B16-008A-4EBF-957D-FB356881D333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B91B16-008A-4EBF-957D-FB356881D333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
